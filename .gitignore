@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+
+# resources do not get uploaded
+resources/
+scribbles.ipynb
